@@ -15,6 +15,19 @@ A React application for user management with authentication, built with:
 - Edit/delete user functionality
 - Responsive design
 
+## Screenshots
+
+### Authentication Screen (Level 1)
+![auth](https://github.com/user-attachments/assets/5b2a7137-be5f-4da0-839b-76f25ed28111)
+
+### User List Page (Level 2)
+![user-list](https://github.com/user-attachments/assets/bf5a6534-0832-4c9b-afa8-70db1cc8f2f5)
+![user-list-2](https://github.com/user-attachments/assets/aa62986d-0b8d-4edb-879d-fd6858527532)
+
+### Edit, Delete Page (Level 3)
+![edit-modal](https://github.com/user-attachments/assets/bc4308cc-4b91-4f74-9bae-6d3f3e4b537d)
+
+
 ## Prerequisites
 
 - Node.js (v14 or higher)
